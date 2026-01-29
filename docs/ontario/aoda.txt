@@ -1,0 +1,53 @@
+Accessibility for Ontarians with Disabilities Act (AODA)
+
+Purpose:
+The Accessibility for Ontarians with Disabilities Act (AODA) became law in 2005. Its goal is to make Ontario fully accessible by 2025 by developing, implementing, and enforcing accessibility standards.
+
+Who It Applies To:
+The AODA applies to:
+- All organizations in Ontario (public, private, and not-for-profit) that have 1 or more employees
+- Different requirements based on organization size:
+  - Organizations with 50+ employees: Must meet all requirements and file compliance reports
+  - Organizations with 1-49 employees: Must meet most requirements but are exempt from some documentation and reporting
+
+The AODA does NOT apply to:
+- Organizations outside Ontario (unless they do business in Ontario)
+- Federally regulated entities (they follow the Accessible Canada Act)
+- Self-employed individuals with no employees
+
+Organization Size Thresholds:
+- 1-49 employees: Basic compliance, no formal reporting
+- 50+ employees: Full compliance including:
+  - Accessibility policies
+  - Multi-year accessibility plans
+  - Compliance reports every 2-3 years
+  - Training documentation
+  - Self-service kiosk compliance
+
+Five Accessibility Standards:
+1. Customer Service Standard (2008)
+2. Information and Communications Standard
+3. Employment Standard
+4. Transportation Standard
+5. Design of Public Spaces Standard
+
+Standards 2-5 are part of the Integrated Accessibility Standards Regulation (IASR).
+
+Key Requirements for Organizations with 50+ Employees:
+- Develop and publish accessibility policies
+- Create multi-year accessibility plans (reviewed every 5 years)
+- File accessibility compliance reports with the government
+- Provide accessibility training to all employees and volunteers
+- Establish processes for feedback
+- Make websites and web content accessible (WCAG 2.0 Level AA)
+- Ensure accessible formats and communication supports
+- Implement accessible employment practices
+- Make public spaces accessible (new construction and renovations)
+
+Enforcement:
+- Accessibility Directorate of Ontario conducts compliance inspections
+- Organizations can be fined up to $100,000 per day for non-compliance
+- Directors and officers can face personal penalties
+
+Timeline:
+Most WCAG 2.0 Level AA requirements became mandatory on January 1, 2021, for organizations with 50+ employees.

@@ -1,0 +1,47 @@
+Accessible Canada Act (ACA)
+
+Purpose:
+The Accessible Canada Act (ACA) came into force on July 11, 2019. Its goal is to make Canada barrier-free by January 1, 2040, through the progressive identification, removal, and prevention of barriers.
+
+Who It Applies To:
+The ACA applies to federally regulated entities, including:
+- Federal government departments and agencies
+- Crown corporations
+- Parliamentary entities (Parliament, Senate, Library of Parliament)
+- Organizations in federally regulated sectors such as:
+  - Banking and financial institutions
+  - Telecommunications
+  - Transportation (airlines, railways, interprovincial bus services)
+  - Broadcasting
+
+The ACA does NOT apply to:
+- Provincial or territorial governments
+- Private businesses that are not federally regulated
+- Small businesses with fewer than 10 employees (exempted from some requirements)
+
+Key Requirements:
+Organizations covered by the ACA must:
+1. Establish accessibility plans
+2. Set up feedback processes
+3. Report on implementation progress
+4. Identify, remove, and prevent barriers in seven priority areas:
+   - Employment
+   - Built environment
+   - Information and communication technologies (ICT)
+   - Communication (other than ICT)
+   - Procurement of goods, services, and facilities
+   - Design and delivery of programs and services
+   - Transportation
+
+Standards:
+The ACA authorizes the creation of accessibility standards. Organizations must comply with standards as they are developed and published.
+
+Enforcement:
+Accessibility Commissioner of Canada can:
+- Conduct inspections and investigations
+- Issue compliance orders
+- Impose administrative monetary penalties for non-compliance
+
+Timeline:
+- Organizations with 100+ employees: Publish first accessibility plan by September 1, 2023
+- Organizations with 10-99 employees: Publish first accessibility plan by June 1, 2024

@@ -1,0 +1,75 @@
+Integrated Accessibility Standards Regulation (IASR) - Web Accessibility Requirements
+
+Overview:
+The Integrated Accessibility Standards Regulation (Ontario Regulation 191/11) includes specific web accessibility requirements under the Information and Communications Standard.
+
+Who Must Comply:
+- Organizations with 50+ employees must comply with all requirements
+- Organizations with 1-49 employees have reduced requirements and later deadlines
+
+Web Content Accessibility Standard:
+Organizations must make their internet websites and web content conform to WCAG 2.0 Level AA, except for:
+- Live captions
+- Pre-recorded audio descriptions
+
+Level AA includes all Level A requirements plus additional success criteria.
+
+Compliance Deadlines for Organizations with 50+ Employees:
+- January 1, 2014: New websites and significantly refreshed websites must comply
+- January 1, 2021: All public websites and web content must comply
+
+Compliance Deadlines for Organizations with 1-49 Employees:
+- January 1, 2021: All public websites and web content must comply
+
+What "Web Content" Includes:
+- Text, images, and multimedia
+- Forms and interactive elements
+- PDF documents
+- Online applications
+- Mobile websites and responsive designs
+- Social media content on organization's platforms
+
+Exemptions:
+- Content posted before January 1, 2012 (archived content)
+- Live captions and pre-recorded audio descriptions (WCAG 2.0 Level AA criteria 1.2.4 and 1.2.5)
+
+WCAG 2.0 Level AA Requirements:
+Organizations must ensure web content meets all Level A and Level AA success criteria across four principles:
+
+1. Perceivable
+   - Text alternatives for images
+   - Captions for videos
+   - Adaptable content (proper heading structure)
+   - Sufficient color contrast (4.5:1 for normal text)
+
+2. Operable
+   - Keyboard accessible
+   - No keyboard traps
+   - Sufficient time to complete tasks
+   - No content that causes seizures (flashing)
+   - Multiple ways to navigate
+   - Clear focus indicators
+
+3. Understandable
+   - Language of page identified
+   - Predictable navigation
+   - Input assistance and error identification
+   - Labels and instructions for forms
+
+4. Robust
+   - Valid HTML markup
+   - Compatible with assistive technologies
+   - Proper ARIA labels where needed
+
+Beyond Websites:
+The Information and Communications Standard also requires:
+- Accessible formats for documents upon request
+- Accessible communication supports
+- Accessible educational and training materials
+- Public emergency information in accessible formats
+
+Feedback and Reporting:
+Organizations with 50+ employees must:
+- Establish accessible feedback processes
+- Include web accessibility in multi-year accessibility plans
+- Report on web accessibility compliance in compliance reports

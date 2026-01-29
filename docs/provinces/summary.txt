@@ -1,0 +1,111 @@
+Provincial Accessibility Legislation - Summary by Province
+
+Overview:
+Provincial accessibility laws vary significantly across Canada. Some provinces have comprehensive legislation, while others have limited or no specific accessibility requirements for private sector organizations.
+
+ONTARIO
+Legislation: Accessibility for Ontarians with Disabilities Act (AODA), 2005
+Status: Comprehensive accessibility law
+Web Requirements: WCAG 2.0 Level AA (mandatory since January 1, 2021 for organizations with 50+ employees)
+Applies To: All organizations with 1+ employees in Ontario
+Key Features:
+- Five accessibility standards (Customer Service, Information and Communications, Employment, Transportation, Design of Public Spaces)
+- Multi-year accessibility plans required for 50+ employees
+- Compliance reporting every 2-3 years
+- Fines up to $100,000/day for non-compliance
+
+MANITOBA
+Legislation: Accessibility for Manitobans Act (AMA), 2013
+Status: Developing accessibility standards
+Web Requirements: WCAG 2.0 Level AA required for public sector websites
+Standards Published:
+- Customer Service Standard (2015)
+- Employment Standard (2023)
+- Information and Communication Standard (in development)
+Applies To: Public sector organizations, requirements for private sector being phased in
+Timeline: Working toward accessibility by 2025
+
+NOVA SCOTIA
+Legislation: Accessibility Act, 2017
+Status: Framework legislation, standards in development
+Web Requirements: WCAG 2.0 Level AA for government websites
+Standards Published:
+- Access to Goods and Services Standard (2018)
+- Employment Standard (under development)
+Applies To: Initially public sector, expanding to private sector
+Timeline: Working toward accessibility by 2030
+
+BRITISH COLUMBIA
+Legislation: Accessible British Columbia Act, 2021
+Status: Relatively new, standards in development
+Web Requirements: WCAG 2.1 Level AA for government websites and services
+Applies To: Initially prescribed organizations (government, public sector)
+Standards: Being developed in areas similar to federal ACA
+Timeline: First accessibility standards expected in 2024-2025
+
+QUÉBEC
+Legislation: No comprehensive accessibility legislation
+Status: Limited accessibility requirements
+Web Requirements:
+- Government websites must follow Web accessibility standards (SGQRI 008)
+- SGQRI 008 is based on WCAG 2.0 Level AA
+Applies To: Government websites and online services only
+Private Sector: No specific web accessibility requirements for private businesses
+
+ALBERTA
+Legislation: No comprehensive accessibility legislation
+Status: No provincial accessibility law
+Web Requirements: No mandatory web accessibility requirements
+Private Sector: No accessibility requirements unless federally regulated
+Public Sector: Government services encouraged to follow WCAG but not legally required
+
+SASKATCHEWAN
+Legislation: The Accessible Saskatchewan Act, 2023
+Status: Recently enacted, standards in development
+Web Requirements: To be determined through accessibility standards
+Applies To: Framework applies to public sector initially
+Timeline: Standards being developed, implementation details forthcoming
+
+OTHER PROVINCES AND TERRITORIES
+Newfoundland and Labrador, New Brunswick, Prince Edward Island, Yukon, Northwest Territories, Nunavut:
+- No comprehensive provincial/territorial accessibility legislation
+- Some government policies encourage accessible websites
+- Public sector may have internal standards
+- Private sector has no legal requirements unless federally regulated
+
+FEDERALLY REGULATED ORGANIZATIONS
+Location: Anywhere in Canada
+Legislation: Accessible Canada Act (ACA), 2019
+Web Requirements: EN 301 549 (incorporates WCAG 2.1 Level AA)
+Applies To: Banks, telecommunications, airlines, railways, broadcasting, federal government
+Note: Federally regulated organizations follow federal law, not provincial law
+
+KEY TAKEAWAYS BY PROVINCE
+
+If you operate in Ontario:
+- 50+ employees: Full AODA compliance required, including WCAG 2.0 AA
+- 1-49 employees: Basic AODA compliance, WCAG 2.0 AA required by 2021
+
+If you operate in Manitoba:
+- Public sector: WCAG 2.0 AA required
+- Private sector: Customer Service and Employment standards apply, web standards coming
+
+If you operate in Nova Scotia or British Columbia:
+- Standards being developed, monitor for updates
+- Government and public sector have requirements
+- Private sector requirements expanding
+
+If you operate in Quebec, Alberta, Saskatchewan, or other provinces:
+- No mandatory private sector web accessibility requirements
+- Government websites may have standards
+- Best practice: Follow WCAG 2.1 AA voluntarily
+
+If you are federally regulated (anywhere in Canada):
+- Follow Accessible Canada Act, not provincial law
+- EN 301 549 (WCAG 2.1 AA) applies
+- Accessibility plans and reporting required
+
+Multi-Provincial Organizations:
+- Must comply with laws in each province where you operate
+- If operating in Ontario with 50+ employees, AODA applies to Ontario operations
+- If federally regulated, ACA applies nationwide (provincial laws don't apply)

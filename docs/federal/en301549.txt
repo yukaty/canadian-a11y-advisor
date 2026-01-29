@@ -1,0 +1,44 @@
+CAN/ASC EN 301 549 - Accessibility Requirements for ICT Products and Services
+
+Overview:
+In December 2023, the Standards Council of Canada adopted EN 301 549 as a National Standard of Canada (CAN/ASC EN 301 549). This is the primary ICT accessibility standard for federally regulated entities under the Accessible Canada Act.
+
+What It Covers:
+EN 301 549 provides accessibility requirements for:
+- Websites and web applications
+- Mobile applications
+- Desktop software
+- Electronic documents
+- Hardware (computers, phones, kiosks, etc.)
+- Digital content
+- Telecommunications equipment and services
+
+Relationship to WCAG:
+EN 301 549 incorporates WCAG 2.1 Level AA by reference for web content and documents:
+- Chapter 9: Web content requirements (references WCAG 2.1 AA)
+- Chapter 10: Non-web documents (references WCAG 2.1 AA)
+- Chapter 11: Software requirements (adapted from WCAG 2.1)
+
+Key Requirements for Web Content:
+All web content must meet WCAG 2.1 Level AA success criteria, including:
+- Perceivable: Information presented in ways all users can perceive
+- Operable: User interface components and navigation must be operable by all
+- Understandable: Information and operation of user interface must be understandable
+- Robust: Content must be compatible with assistive technologies
+
+Beyond WCAG:
+EN 301 549 includes additional requirements beyond WCAG:
+- Hardware accessibility (keyboards, displays, biometric controls)
+- Two-way voice communication (video calling, captioning)
+- Video content (synchronized captions and audio description)
+- Authoring tools (creating accessible content)
+- Support documentation and services
+
+Federal Implementation:
+The Government of Canada is transitioning from WCAG 2.0 to EN 301 549 as the standard for ICT accessibility. Federal departments and agencies are expected to:
+- Comply with EN 301 549 for new ICT procurements
+- Update existing systems to meet EN 301 549 requirements
+- Include EN 301 549 requirements in contracts for ICT products and services
+
+Timeline:
+Federal entities should be planning to meet EN 301 549 requirements as part of their accessibility plans under the ACA. Specific compliance deadlines are set through accessibility standards and procurement policies.

@@ -1,0 +1,52 @@
+Accessible Canada Regulations (ACR)
+
+Overview:
+The Accessible Canada Regulations came into force on December 31, 2021, and support the implementation of the Accessible Canada Act (ACA). They set out requirements for accessibility plans, feedback processes, and progress reports.
+
+Accessibility Plans:
+Organizations must publish accessibility plans that include:
+- Policies, programs, practices, and services related to identifying and removing barriers
+- Consultation process used to develop the plan
+- Areas covered by the plan (employment, built environment, ICT, etc.)
+- Contact information for feedback
+
+Frequency:
+- Update and publish accessibility plans at least once every 3 years
+- First plan due dates based on organization size (see ACA timeline)
+
+Feedback Process:
+Organizations must establish a process for receiving and handling feedback about:
+- Implementation of accessibility plans
+- Barriers encountered when interacting with the organization
+
+Requirements for feedback process:
+- Must accept anonymous feedback
+- Must accept feedback in multiple formats (written, oral, electronic)
+- Must acknowledge receipt of feedback
+- Must provide information on how feedback will be reviewed
+
+Progress Reports:
+Organizations must publish progress reports on implementation of accessibility plans:
+- At least once per year
+- Include description of feedback received and how it was taken into account
+- Describe consultation process for developing the report
+
+Consultation:
+Organizations must consult with persons with disabilities when:
+- Preparing accessibility plans
+- Preparing progress reports
+- Identifying or removing barriers
+- Developing feedback processes
+
+Publication Requirements:
+All documents (accessibility plans, progress reports, descriptions of feedback processes) must be:
+- Published on the organization's main digital platform (website)
+- Available in print upon request
+- Available in accessible formats upon request
+- Published simultaneously in both English and French
+
+Notification:
+Organizations must notify the Accessibility Commissioner of Canada when publishing:
+- Accessibility plans
+- Progress reports
+- Updated versions of these documents

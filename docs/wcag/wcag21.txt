@@ -1,0 +1,86 @@
+Web Content Accessibility Guidelines (WCAG) 2.1
+
+Overview:
+WCAG 2.1 is an international standard published by the W3C Web Accessibility Initiative (WAI) in June 2018. It extends WCAG 2.0 with additional success criteria focused on mobile accessibility, low vision, and cognitive disabilities.
+
+WCAG 2.1 is backward compatible with WCAG 2.0:
+- All WCAG 2.0 success criteria are included in WCAG 2.1
+- Content that conforms to WCAG 2.1 also conforms to WCAG 2.0
+
+Three Conformance Levels:
+- Level A: Minimum accessibility (basic requirements)
+- Level AA: Mid-range accessibility (most commonly required)
+- Level AAA: Highest accessibility (not required as general policy)
+
+Canadian Context:
+- Ontario AODA requires WCAG 2.0 Level AA
+- Federal EN 301 549 requires WCAG 2.1 Level AA
+- Manitoba requires WCAG 2.0 Level AA
+- Federal government is transitioning from WCAG 2.0 to WCAG 2.1 AA
+
+What's New in WCAG 2.1:
+WCAG 2.1 adds 17 new success criteria beyond WCAG 2.0:
+
+Level A (5 new criteria):
+1. 2.1.4 Character Key Shortcuts - Allow users to turn off or remap keyboard shortcuts
+2. 2.5.1 Pointer Gestures - Ensure multipoint or path-based gestures have alternatives
+3. 2.5.2 Pointer Cancellation - Prevent accidental activation of controls
+4. 2.5.3 Label in Name - Ensure visible labels match accessible names
+5. 2.5.4 Motion Actuation - Provide alternatives to motion-based inputs
+
+Level AA (7 new criteria):
+1. 1.3.4 Orientation - Don't restrict display to single orientation
+2. 1.3.5 Identify Input Purpose - Programmatically identify input field purposes
+3. 1.4.10 Reflow - Content works at 320px width without horizontal scrolling
+4. 1.4.11 Non-text Contrast - 3:1 contrast for UI components and graphics
+5. 1.4.12 Text Spacing - Content adapts to adjusted spacing
+6. 1.4.13 Content on Hover or Focus - Ensure hoverable/focusable content is dismissible
+7. 2.5.6 Concurrent Input Mechanisms - Don't restrict input methods
+
+Level AAA (5 new criteria):
+Focus on additional cognitive and low vision improvements
+
+Key Differences Between WCAG 2.0 and 2.1:
+- Mobile accessibility: Touch targets, orientation, gestures
+- Low vision: Contrast for UI components, reflow, text spacing
+- Cognitive: Input purpose identification, consistent help, accessible authentication
+
+WCAG 2.1 Level AA Success Criteria Summary:
+All Level A criteria plus:
+
+1.2.4 Captions (Live) - Live audio has captions
+1.2.5 Audio Description (Prerecorded) - Videos have audio descriptions
+1.3.4 Orientation - Content works in portrait and landscape
+1.3.5 Identify Input Purpose - Common inputs identified (name, email, etc.)
+1.4.3 Contrast (Minimum) - 4.5:1 for text, 3:1 for large text
+1.4.4 Resize Text - Text can be resized to 200%
+1.4.5 Images of Text - Use real text instead of images
+1.4.10 Reflow - Content reflows at 320px without horizontal scrolling
+1.4.11 Non-text Contrast - 3:1 for UI components and graphics
+1.4.12 Text Spacing - Content adapts to user-adjusted spacing
+1.4.13 Content on Hover or Focus - Hoverable content is dismissible and hoverable
+
+2.4.5 Multiple Ways - Multiple ways to find pages
+2.4.6 Headings and Labels - Descriptive headings and labels
+2.4.7 Focus Visible - Keyboard focus is visible
+2.5.6 Concurrent Input Mechanisms - Support touchscreen, keyboard, mouse
+
+3.1.2 Language of Parts - Changes in language identified
+3.2.3 Consistent Navigation - Navigation is consistent across pages
+3.2.4 Consistent Identification - Components are identified consistently
+3.3.3 Error Suggestion - Error messages suggest corrections
+3.3.4 Error Prevention (Legal, Financial, Data) - Confirmations for important actions
+
+4.1.3 Status Messages - Screen readers notified of status changes
+
+Four Principles (POUR):
+1. Perceivable - Information must be presentable to users in ways they can perceive
+2. Operable - User interface components must be operable
+3. Understandable - Information and operation must be understandable
+4. Robust - Content must work with current and future technologies
+
+Testing Conformance:
+To claim WCAG 2.1 Level AA conformance:
+- All Level A success criteria must be met
+- All Level AA success criteria must be met
+- Conformance applies to full pages, not individual components
