@@ -1,9 +1,15 @@
 """Streamlit chat interface for the Canadian Accessibility Advisor."""
 
+import os
 import streamlit as st
 from dotenv import load_dotenv
-
 from advisor.graph import create_graph
+
+try:
+    # For Streamlit Cloud
+    os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
+except (st.errors.StreamlitSecretNotFoundError, KeyError):
+    load_dotenv()
 
 SAMPLE_QUESTIONS = [
     "What laws apply to federally regulated businesses?",
@@ -35,8 +41,6 @@ def _run_graph(prompt: str) -> str:
     except Exception as e:
         return f"An error occurred: {str(e)}\n\nPlease try rephrasing your question."
 
-
-load_dotenv()
 
 # Page configuration
 st.set_page_config(
